@@ -8,10 +8,10 @@ using System.Text.RegularExpressions;
 namespace TaisyaBot {
 
     class Tokens {
-        public string consumerkey = "Cv8gsYSaZdo9NK709spjZUW5N";
-        public string consumersecret = "Mur2N5fcasj45V40sHdkqbbVDq9011camqYewCvkaC9ykphdVC";
-        public string accesstoken = "3632051593-AdFrnhBgi4lTKTQI1DcoC4eamKVIUG0QHXblFCg";
-        public string accesstokensecret = "5wyRZM2D0HKJ6xSYVZYpwyzBLZaePU7oj6wpTb6x96mVC";
+        public string consumerkey = "*****";
+        public string consumersecret = "*****"
+        public string accesstoken = "*****"
+        public string accesstokensecret = "*****"
     }
     class Go_tweet : Tokens {
         public void tweet(int iResult_go) {
